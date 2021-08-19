@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Rede Brasil">
+    <display-name lang="pt">Rede Brasil</display-name>
+    <icon src="../canais/iontv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo HD">
+    <display-name lang="pt">Globo HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band HD">
+    <display-name lang="pt">Band HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede TV HD">
+    <display-name lang="pt">Rede TV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SBT HD">
+    <display-name lang="pt">SBT HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cultura HD">
+    <display-name lang="pt">Cultura HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Record HD">
+    <display-name lang="pt">Record HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Gazeta HD">
+    <display-name lang="pt">Gazeta HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+</tv>
